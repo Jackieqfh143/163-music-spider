@@ -1,2 +1,2 @@
 # myCode
-这是我写代码的一个仓库
+This is a coding repository for myself
